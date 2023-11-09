@@ -1,2 +1,2 @@
 # fba-quant-fai
-FBA Quant FAI Session Homework
+FBA Quant FAI study session
