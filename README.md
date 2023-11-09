@@ -1,2 +1,2 @@
 # fba-quant-fai
-FBA Quant FAI study session
+FBA Quant Financial AI study session
